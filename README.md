@@ -1,4 +1,6 @@
 # hello-world
-Git testing project
+Git 
 
 testing trial run
+
+more added text
